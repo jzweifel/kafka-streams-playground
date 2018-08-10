@@ -1,0 +1,16 @@
+{
+  "name": "kafka-streams-playground",
+  "version": "1.0.0",
+  "description": "A playground for kafka streams in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka-streams",
+    "kafka",
+    "streams"
+  ],
+  "author": "Jacob Zweifel",
+  "license": "ISC"
+}
