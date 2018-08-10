@@ -14,6 +14,8 @@
   "author": "Jacob Zweifel",
   "license": "ISC",
   "dependencies": {
-    "kafka-streams": "^4.5.0"
+    "kafka-streams": "^4.5.0",
+    "most": "^1.7.3",
+    "sinek": "^6.19.0"
   }
 }
